@@ -1,3 +1,8 @@
 import ReactDOM from 'react-dom';
 
-ReactDom.render('Olá Rea!!!')
+
+
+ReactDOM.render(
+  'Olá React!!!', 
+  document.getElementById('root')
+  );
