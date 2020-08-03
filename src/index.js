@@ -1,8 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import './index.css'
+import React from 'react'
+import ReactDOM from 'react-dom'
 
 
-const tag = <strong>Olá React!!!</strong>; 
+const tag = <strong>Olá React!!!</strong>
 
 ReactDOM.render(
   <div>
